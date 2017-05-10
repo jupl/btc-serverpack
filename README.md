@@ -1,4 +1,6 @@
 # [BTC Serverpack](http://jupl.github.io/btc/) 0.1.2
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jupl/btc-serverpack.svg)](https://greenkeeper.io/)
 [![Dependency Status](https://gemnasium.com/jupl/btc-serverpack.png)](https://gemnasium.com/jupl/btc-serverpack)
 
 This is the base skeleton with server extras for the following derived project templates:
